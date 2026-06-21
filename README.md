@@ -1,80 +1,59 @@
-# 👋 Hey, I’m building in silence
+👋 Hey, I'm Mussie Habtemichael
 
-I’m a full-stack developer focused on turning ideas into real systems.
+I'm a full-stack developer who builds web and mobile applications that solve real problems.
+Most of my time goes into turning ideas into working systems — from UI to backend to database.
 
-I spend most of my time building web and mobile applications with:
-Next.js · React Native · Node.js · PostgreSQL · Prisma
-
-I like understanding how things work under the hood and slowly improving every layer of a system—from UI to backend logic to databases.
+My current stack: Next.js · React Native · Node.js · PostgreSQL · Prisma
 
 ---
 
-## 🧠 What I’m working on
+🧠 What I'm working on
 
-Right now, I’m building **Betachin**, a property management system designed to simplify how properties, units, and tenants are managed.
+Right now, I'm building **Betachin** — a property management system designed to simplify
+how properties, units, and tenants are managed. Real software, real users, real stakes.
 
-Alongside that, I’m following a long-term learning path that includes:
+Alongside that, I'm following a long-term learning path that includes:
 - Full-stack web & mobile development
 - System design fundamentals
 - Data structures & problem solving
 - Real-world SaaS product building
 
-I focus more on building than talking about building.
-
 ---
 
-## ⚙️ Tech Stack
+⚙️ Tech Stack
 
 **Frontend**
-- Next.js
-- React
-- React Native
-- Tailwind CSS
+Next.js · React · React Native · Tailwind CSS
 
 **Backend**
-- Node.js
-- Express
-- NestJS (learning)
-- Prisma
-- PostgreSQL
+Node.js · Express · Prisma · PostgreSQL
 
 **Tools**
-- Git & GitHub
-- Supabase
-- AWS (learning)
-- Docker (learning)
+Git & GitHub · Supabase · Docker · AWS
 
 ---
 
-## 🚧 Current mindset
+🧭 Current mindset
 
-I’m not rushing.
-
-I’m building slowly, repeatedly, and with intention.
-
-Some days are clear. Some days are foggy.  
-But I keep building anyway.
+I'm not chasing shortcuts. I'm building steadily, with intention —
+focused on depth over speed, and consistency over bursts.
 
 ---
 
-## 📌 Goals
-
+📌 Goals
 - Build real, useful software used by real people
 - Become strong in system design and backend architecture
 - Contribute to open-source projects
 - Ship SaaS products that solve real problems
-- Grow quietly through consistency, not noise
+- Grow through consistency and craft
 
 ---
 
-## 🌱 Philosophy
-
-> “Small improvements, repeated long enough, become mastery.”
+🌱 Philosophy
+"Small improvements, repeated long enough, become mastery."
 
 ---
 
-## 📫 Contact
-
+📫 Contact
 Open to collaboration, learning, and meaningful opportunities.
-
 Email: mussie.habtemichael2@gmail.com
